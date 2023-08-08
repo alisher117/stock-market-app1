@@ -1,0 +1,152 @@
+[
+{
+"close": 2995.4,
+"company": "Alphabet Inc.",
+"date": "2023-08-07",
+"high": 3008.7,
+"low": 2980.1,
+"open": 2983,
+"symbol": "GOOGL",
+"volume": 1568900
+},
+{
+"close": 152.75,
+"company": "Apple Inc.",
+"date": "2023-08-07",
+"high": 153.45,
+"low": 149.8,
+"open": 150.2,
+"symbol": "AAPL",
+"volume": 42658000
+},
+{
+"close": 2930.75,
+"company": "Alphabet Inc.",
+"date": "2023-08-07",
+"high": 2935.2,
+"low": 2888.1,
+"open": 2900.5,
+"symbol": "GOOGL",
+"volume": 1854600
+},
+{
+"close": 155.7,
+"company": "Apple Inc.",
+"date": "2023-08-07",
+"high": 158.2,
+"low": 154.2,
+"open": 156,
+"symbol": "AAPL",
+"volume": 24874500
+},
+{
+"close": 610.3,
+"company": "Netflix Inc.",
+"date": "2023-08-07",
+"high": 612.75,
+"low": 597.2,
+"open": 600.4,
+"symbol": "NFLX",
+"volume": 3428100
+},
+{
+"close": 224.7,
+"company": "NVIDIA Corporation",
+"date": "2023-08-07",
+"high": 226.8,
+"low": 219.3,
+"open": 220.5,
+"symbol": "NVDA",
+"volume": 1894700
+},
+{
+"close": 385.6,
+"company": "Meta Platforms Inc.",
+"date": "2023-08-07",
+"high": 387.4,
+"low": 375.5,
+"open": 380.2,
+"symbol": "FB",
+"volume": 5127600
+},
+{
+"close": 124.6,
+"company": "Advanced Micro Devices Inc.",
+"date": "2023-08-07",
+"high": 125.2,
+"low": 119.5,
+"open": 120.8,
+"symbol": "AMD",
+"volume": 5679800
+},
+{
+"close": 432.9,
+"company": "Facebook, Inc.",
+"date": "2023-08-07",
+"high": 438,
+"low": 429.8,
+"open": 430.5,
+"symbol": "FB",
+"volume": 8942160
+},
+{
+"close": 3445.6,
+"company": "Amazon.com Inc.",
+"date": "2023-08-07",
+"high": 3468.9,
+"low": 3420.2,
+"open": 3422,
+"symbol": "AMZN",
+"volume": 3125890
+},
+{
+"close": 281.7,
+"company": "Microsoft Corporation",
+"date": "2023-08-07",
+"high": 282.9,
+"low": 278.5,
+"open": 280.3,
+"symbol": "MSFT",
+"volume": 32675000
+},
+{
+"close": 3450.25,
+"company": "Amazon.com Inc.",
+"date": "2023-08-07",
+"high": 3456.78,
+"low": 3390.5,
+"open": 3400,
+"symbol": "AMZN",
+"volume": 2789400
+},
+{
+"close": 390.8,
+"company": "Microsoft Corporation",
+"date": "2023-08-07",
+"high": 394.2,
+"low": 388.5,
+"open": 388.9,
+"symbol": "MSFT",
+"volume": 18670100
+},
+{
+"close": 162.7,
+"company": "JPMorgan Chase & Co.",
+"date": "2023-08-07",
+"high": 163.9,
+"low": 158.5,
+"open": 160.3,
+"symbol": "JPM",
+"volume": 8762300
+},
+{
+"close": 760.1,
+"company": "Tesla Inc.",
+"date": "2023-08-07",
+"high": 765.2,
+"low": 748.9,
+"open": 750.8,
+"symbol": "TSLA",
+"volume": 6952300
+}
+]
